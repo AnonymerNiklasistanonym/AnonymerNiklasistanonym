@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I program open source since 2017 but have also multiple private repositories for university projects and prototypes.
+I program open source using git since 2017 but have also multiple private repositories for university projects and prototypes.
 
 - Languages: German, English
 - Operating systems:
@@ -35,7 +35,8 @@ I program open source since 2017 but have also multiple private repositories for
     - Advanced/Simple web sites
   - Java [8] **`Was Advanced`** (I feel like I forgot everything because I don't write it any more)
     - Android apps
-    - OpenJfx desktop apps
+    - JavaFX desktop apps
+    - LibGDX desktop/web game
   - Javascript/Typescript [ES6] **`Advanced`**
     - Small/Medium cross-platform scripts
     - NodeJs web server
@@ -50,5 +51,5 @@ I program open source since 2017 but have also multiple private repositories for
     - Small/Medium cross-platform scripts
     - Small prototypes for Data Science/AI
 - Git Continous Integration knowledge:
-  - GitHub Actions **`Good Beginner`**
+  - GitHub Actions **`Beginner`**
   - GitLab CI **`Good`**
