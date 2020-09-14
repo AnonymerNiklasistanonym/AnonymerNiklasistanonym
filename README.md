@@ -25,10 +25,10 @@ I program open source things but have also private repositories for university p
   - Bash **`Good`**
     - Small/Medium scripts (often cross platform with Windows MinGW)
   - C++ [14,17,20] **`Good Beginner`** (currently learning)
-    - Qt QML desktop apps (only small ones)
-    - Interprocess data/message framework (Boost)
-    - Live image stitching (OpenCV)
-    - data science/AI scripts (only for the basics)
+    - Qt QML cross-platform desktop apps (only small ones)
+    - Cross-platform interprocess data/message framework (Boost)
+    - Cross-platform live image stitching (OpenCV)
+    - Data Science/AI scripts (only for the basics)
   - CMake [3.15+] **`Good`**
     - Advanced/Simple C++ build scripts
   - Java [8] **`Was Advanced`** (I feel like I forgot everything because I don't write it any more)
@@ -36,7 +36,7 @@ I program open source things but have also private repositories for university p
     - OpenJfx desktop apps
   - Javascript/Typescript [ES6] **`Advanced`**
     - Small/Medium cross-platform scripts
-    - nodejs web server
+    - NodeJs web server
     - Electron desktop app (this was a long time ago)
     - Nearly any basic prototype I have made
   - Make **`Good Beginner`**
