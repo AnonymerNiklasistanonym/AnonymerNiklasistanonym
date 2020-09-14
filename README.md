@@ -51,5 +51,5 @@ I program open source using git since 2017 but have also multiple private reposi
     - Small/Medium cross-platform scripts
     - Small prototypes for Data Science/AI
 - Git Continous Integration knowledge:
-  - GitHub Actions **`Beginner`**
+  - GitHub Actions **`Good Beginner`**
   - GitLab CI **`Good`**
