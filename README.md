@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I program open source things but have also private repositories for university projects or prototypes.
+I program open source since 2017 things but have also private repositories for university projects and prototypes.
 
 - Languages: German, English
 - Operating systems:
@@ -47,3 +47,6 @@ I program open source things but have also private repositories for university p
   - Python [2.7, 3.6, 3.8] **`Good`**
     - Small/Medium cross-platform scripts
     - Small prototypes for data science/AI
+- Git Continous Integration knowledge:
+  - GitHub Actions **`Good Beginner`**
+  - GitLab CI **`Good`**
