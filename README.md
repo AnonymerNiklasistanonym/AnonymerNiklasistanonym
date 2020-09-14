@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I program open source since 2017 things but have also private repositories for university projects and prototypes.
+I program open source since 2017 but have also multiple private repositories for university projects and prototypes.
 
 - Languages: German, English
 - Operating systems:
