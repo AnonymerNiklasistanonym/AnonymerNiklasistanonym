@@ -31,6 +31,8 @@ I program open source since 2017 but have also multiple private repositories for
     - Data Science/AI scripts (only for the basics)
   - CMake [3.15+] **`Good`**
     - Advanced/Simple C++ build scripts
+  - HTML [5] (and CSS) **`Advanced`**
+    - Advanced/Simple web sites
   - Java [8] **`Was Advanced`** (I feel like I forgot everything because I don't write it any more)
     - Android apps
     - OpenJfx desktop apps
