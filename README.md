@@ -46,7 +46,7 @@ I program open source since 2017 but have also multiple private repositories for
     - Small/Medium cross-platform (but mostly native Windows 10) scripts
   - Python [2.7, 3.6, 3.8] **`Good`**
     - Small/Medium cross-platform scripts
-    - Small prototypes for data science/AI
+    - Small prototypes for Data Science/AI
 - Git Continous Integration knowledge:
   - GitHub Actions **`Good Beginner`**
   - GitLab CI **`Good`**
