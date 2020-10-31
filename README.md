@@ -37,19 +37,20 @@ I program open source using git since 2017 but have also multiple private reposi
     - Android apps
     - JavaFX desktop apps
     - LibGDX desktop/web game
-  - Javascript/Typescript [ES6] **`Advanced`**
+  - Javascript/Typescript/NodeJS [ES6] **`Advanced`**
     - Small/Medium cross-platform scripts
-    - NodeJs web server
-    - Electron desktop app (this was a long time ago)
-    - Nearly any basic prototype I have made
+    - Small/Big NodeJS web servers
+    - Small Electron desktop app (this was a long time ago)
+    - Many of my prototypes start in these languages
   - Make **`Good Beginner`**
-    - Simple C Makefiles
+    - Simple C/C++ Makefiles
     - Makefiles for ease of use for big projects
   - Powershell [6,7] **`Good Beginner`**
     - Small/Medium cross-platform (but mostly native Windows 10) scripts
   - Python [2.7, 3.6, 3.8] **`Good`**
     - Small/Medium cross-platform scripts
     - Small prototypes for Data Science/AI
+    - Small user and server side applications 
 - Git Continous Integration knowledge:
   - GitHub Actions **`Good Beginner`**
   - GitLab CI **`Good`**
