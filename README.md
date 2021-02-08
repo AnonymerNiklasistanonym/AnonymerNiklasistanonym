@@ -19,8 +19,8 @@ I program open source using git since 2017 but have also multiple private reposi
 
 - Languages: German, English
 - Operating systems:
-  - Linux (Currently using latest Manjaro/Raspbian)
-  - Windows (Currently using 10 but program on it mostly for cross platform compatibility)
+  - Linux (Manjaro on my workstation and Raspbian on my local server)
+  - Windows (Only from time to time and only to check for cross platform compatibility)
 - Programming languages:
   - Bash **`Good`**
     - Small/Medium scripts (often cross platform with Windows MinGW)
@@ -41,6 +41,8 @@ I program open source using git since 2017 but have also multiple private reposi
     - Small/Medium cross-platform scripts
     - Small/Big NodeJS web servers
     - Small Electron desktop app (this was a long time ago)
+    - Small Web extensions
+    - Small Discord/Telegram/... bots
     - Many of my prototypes start in these languages
   - Make **`Good Beginner`**
     - Simple C/C++ Makefiles
