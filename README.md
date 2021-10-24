@@ -56,7 +56,7 @@ I program open source using git since 2017 but have also multiple private reposi
   - Python [2.7, 3.6, 3.8] **`Good`**
     - Small/Medium cross-platform scripts
     - Small prototypes for Data Science/AI
-    - Small user and server side applications 
+    - Small user and server side applications/libraries/packages
 - Git Continous Integration knowledge:
   - GitHub Actions **`Good`**
   - GitLab CI **`Good`**
