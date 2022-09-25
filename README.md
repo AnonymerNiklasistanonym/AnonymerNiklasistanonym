@@ -10,6 +10,8 @@ I program open source using git since 2017.
   - C++ [14,23] **`Good`** (still learning)
     - Small Qt QML cross-platform desktop apps
     - University project using interprocess data/message framework (Boost) and live image stitching (OpenCV)
+    - GPGPU with OpenCL 2.0
+    - Documentation with doxygen
     - Testing with catch2
   - CMake **`Good`**
     - Advanced/Simple C++ build scripts
@@ -27,6 +29,7 @@ I program open source using git since 2017.
     - Small Web extensions
     - NPM libraries/packages
     - Discord/Telegram/Twitch bots
+    - Documentation with typedoc
     - Testing with mocha and chai
   - NSIS **`Good`**
     - Windows installers (Custom pages, update environment variables, registry entries to detect previous installed versions/infos)
