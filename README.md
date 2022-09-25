@@ -1,7 +1,7 @@
 I program open source using git since 2017.
 
 - Languages: German, English
-- Operating systems: Linux (Manjaro, Raspbian, Ubuntu, WSL), Windows
+- Operating systems: Linux (`pacman`+`yay`: Manjaro, `apt`: Raspbian, Ubuntu, WSL), Windows (`winget`)
 - Programming languages:
   - Bash **`Good`**
     - Linux scripts
@@ -40,6 +40,12 @@ I program open source using git since 2017.
     - Cross-platform scripts
     - Prototypes for Data Science/AI
     - Medium sized applications/libraries/packages
-- Git Continous Integration knowledge:
+- Continous Integration knowledge:
   - GitHub Actions **`Advanced`**
   - GitLab CI **`Good`**
+- IDE knowledge:
+  - Eclipse (Java)
+  - IntelliJ IDEA Community (Java), PyCharm Community (Python), Android Studio (Android)
+  - QtCreator (C++)
+  - Visual Studio (C++)
+  - Visual Studio Code (all languages besides Android)
