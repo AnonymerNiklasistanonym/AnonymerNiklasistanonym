@@ -28,6 +28,8 @@ I program open source using git since 2017.
     - NPM libraries/packages
     - Discord/Telegram/... bots
     - Testing with mocha and chai
+  - NSIS **`Good`**
+    - Windows installers (Custom pages, update environment variables, registry entries to detect previous installed versions/infos)
   - Make **`Good`**
     - Simple C/C++ Makefiles
     - Simple Linux scripts for project/repository management
