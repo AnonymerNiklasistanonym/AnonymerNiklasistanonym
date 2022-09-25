@@ -26,7 +26,7 @@ I program open source using git since 2017.
     - NodeJS console/electron applications
     - Small Web extensions
     - NPM libraries/packages
-    - Discord/Telegram/... bots
+    - Discord/Telegram/Twitch bots
     - Testing with mocha and chai
   - NSIS **`Good`**
     - Windows installers (Custom pages, update environment variables, registry entries to detect previous installed versions/infos)
@@ -40,6 +40,10 @@ I program open source using git since 2017.
     - Cross-platform scripts
     - Prototypes for Data Science/AI
     - Medium sized applications/libraries/packages
+- Database knowledge:
+  - SQLite **`Good`**
+    - Small databases for web servers or local applications
+    - Advanced join/search queries and views
 - Continous Integration knowledge:
   - GitHub Actions **`Advanced`**
   - GitLab CI **`Good`**
